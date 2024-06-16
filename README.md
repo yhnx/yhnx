@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Yehen, an Electronics Engineering Student with a love for Machine Learning. 
+I'm currently diving deep into the field of Deep Learning and doing side projects to put what i learn into practice 
+
 <!--
 **yhnx/yhnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
