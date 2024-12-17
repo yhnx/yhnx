@@ -6,22 +6,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00FF00&center=true&width=700&lines=Exploring+Machine+Learning+and+AI🧠;Building+Embedded+Systems⚙️;Innovating+with+Robotics🤖;Designing+Smart+Electronics⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00FF00&center=true&width=700&lines=Exploring+Machine+Learning+and+AI🧠;Innovating+with+Robotics🤖;Designing+Smart+Electronics⚡)](https://git.io/typing-svg)
 
 </div>
 
 - 🎓 I'm an Electronic & Telecommunication Engineering Undergraduate Student at [University of Moratuwa](https://uom.lk/), Sri Lanka.
 
-- 🔭 I’m currently working on:
+- 🔭 I’m at the moment working on:
   - MicroMouse robotics
   - Deep learning research projects 
   - CubeSat development for space applications.
 
-- 🌟 I'm deeply interested in:
-  - Robotics and autonomous systems 🤖  
-  - Embedded systems with ARM-based processors ⚙️  
-  - Machine learning and its applications in real-world systems 🧠  
-  - Electronics and circuit design for smart devices ⚡  
+- 🌟 I'm currently interested in:
+  - Deep Learning and its PracticaL Application
+  - Low-Level Hardware Programming (STM32 & ARM Cortex-M)  
+  - Computer Architecture    
 
 - 📫 Feel free to connect: [yehenaasuramuni@gmail.com](mailto:yehenaasuramuni@gmail.com)
 
