@@ -15,10 +15,10 @@
 - 🔭 I’m at the moment working on:
   - MicroMouse robotics
   - Deep learning research projects 
-  - CubeSat development for space applications.
+  - Initial stages of a CubeSat development
 
 - 🌟 I'm currently interested in:
-  - Deep Learning and its PracticaL Application
+  - Deep Learning and Its Practical Application
   - Low-Level Hardware Programming (STM32 & ARM Cortex-M)  
   - Computer Architecture    
 
